@@ -1,0 +1,80 @@
+body {
+	background-image: url(img/background.jpg);
+	background-repeat: no-repeat;
+}
+
+.kader {
+	width: 700px;
+	margin-left: 350px;
+	margin-top: 320px;
+}
+
+a {
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+
+.facebook {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-image: url(img/facebook2.jpg);
+}
+
+.twitter {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-image: url(img/twitter2.jpg);
+
+}
+
+.youtube {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-image: url(img/youtube2.jpg);
+
+}
+
+.pinterest {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-image: url(img/pinterest2.jpg);
+
+}
+
+.tumblr {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-image: url(img/tumblr2.jpg);
+
+}
+
+.netflix {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-image: url(img/netflix2.jpg);
+
+}
+
+.bloglovin {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-image: url(img/bloglovin2.jpg);
+
+}
+
+.sidereel {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-image: url(img/sidereel2.jpg);
+
+}
